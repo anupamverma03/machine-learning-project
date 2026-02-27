@@ -1,0 +1,2 @@
+Total Images,Total TP,Total FP,Total FN,Precision,Recall,F1 Score,Avg Inference (ms),Evaluation FPS,Total Eval Time (sec),IOU Threshold,Confidence Threshold,Scale Factor,Min Neighbors,Min Size
+1067,865,163,413,0.8414,0.6768,0.7502,176.87,5.65,192.89,0.5,0.9,1.05,3,"(30, 30)"
